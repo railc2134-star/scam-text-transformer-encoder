@@ -1,4 +1,4 @@
-Scam Text Transformer
+ScamGuardAI Encoder
 
 This project is a neural network built with PyTorch to detect scam and phishing messages from text.
 
